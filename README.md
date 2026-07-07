@@ -8,7 +8,8 @@
 
 <br>
 
-Soy estudiante de Ingeniería en Informática en la PUCV.  
+
+Estudiante de 5to semestre de Ingeniería en Informática en la PUCV.  
 Actualmente estoy aprendiendo desarrollo web, automatización con IA y creación de soluciones digitales para pymes.
 
 Me interesa crear proyectos reales que ayuden a negocios pequeños a tener presencia online, vender mejor y automatizar procesos simples.
