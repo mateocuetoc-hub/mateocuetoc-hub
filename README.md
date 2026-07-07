@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Mateo+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+PUCV;Desarrollo+web+para+pymes+%F0%9F%92%BB;IA+%2B+automatizaci%C3%B3n+%2B+proyectos+reales+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 # Hola, soy Mateo 👋
 
 Soy estudiante de Ingeniería en Informática en la PUCV.  
